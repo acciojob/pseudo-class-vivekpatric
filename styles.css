@@ -1,5 +1,8 @@
 /*  your css code here. If applicable */
-div .f1{
-	color:rgb(0, 0, 0);
+.f1{
+	color:rgb(255, 0, 0);
 	font-size:25px;
+}
+.f2{
+	color:rgb(0,0,0);
 }
